@@ -2,7 +2,7 @@
 Este es un proyecto para calcular el indice acumulado cuatrimestral, en su defecto es una aplicación web, pero aprovechando los Web View de android se ha convertido  en una aplicacion semi-Hibrida 
 
 
-<h1>Gif del funcionamiento de la aplicacion</h>
+<h1>Gif del funcionamiento de la aplicacion</h></br>
 <img src="/screens/gif.gif" alt="Git aplicacion"/>
 
 <h1>Screenshots de la aplicacion</h1>
